@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saotomaster
 - 👀 I’m interested in ... marcial arts and technology
 - 🌱 I’m currently learning ... full stock web develoment
-- 💞️ I’m looking to collaborate on ... rentastico
+- 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... email
 
 <!---
